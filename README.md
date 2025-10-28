@@ -1,4 +1,4 @@
-# Soal Branching Flowgorithm (Total 100)
+# Soal Latiihan Function (Total 100)
 
 Buatlah satu algoritma di Flowgorithm untuk kasus berikut:
 

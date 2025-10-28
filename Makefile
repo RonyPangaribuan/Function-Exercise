@@ -1,5 +1,5 @@
 compile:
-	javac T00.java
+	javac TFUN.java
 
 test:
-	java T00
+	java TFUN
